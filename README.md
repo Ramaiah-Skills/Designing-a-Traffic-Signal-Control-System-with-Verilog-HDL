@@ -1,4 +1,4 @@
-# Traffic FSM Controller
+# Designing-a-Traffic-Signal-Control-System-with-Verilog-HDL
 
 ## Overview
 
